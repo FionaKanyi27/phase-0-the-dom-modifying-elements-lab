@@ -11,7 +11,7 @@ const newHeader = document.createElement('h1');
 newHeader.id = 'victory';
 
 // Set the text content of the new header
-newHeader.textContent = "YOUR-NAME is the champion!"; // Replace YOUR-NAME with your name
+newHeader.textContent = "Fiona-Kanyi is the champion!"; // Replace YOUR-NAME with your name
 
 // Append the new header to the body (or another desired parent element)
 document.body.append(newHeader);
